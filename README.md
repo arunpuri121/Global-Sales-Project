@@ -3,7 +3,7 @@
 In this Project, we have made a data visualization dashboard from inside_sales data set which is provided in the repository. We have done the data visualization to show the performance of the store in the United States with the help of Different Visualization Charts, which are as follows.
 
 <ol>
-  <li>Slicers:</li>
+  <li><h3>Slicers:</h3></li>
   <p>The 1st visualization chart we have used are slicers to filter the performance based on <b>Years</b>, <b>quarters</b>.  </p>
 
   <li>Cards:</li>
