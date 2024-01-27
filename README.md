@@ -1,6 +1,6 @@
 # Global-Sales-Project
 
-In this Project, we have made a data visualization dashboard from inside_sales data set which is provided in the repository. We have done the data visualization to show the performance of the store in the United States with the help of Different Visualization Charts, which are as follows.
+In this Project, we have made a data visualization dashboard from inside_sales data set which is provided in the repository. to start with it first, we have to filter our data as the data in our data set have the whole world data but in our analysis, the requirement is for only the United States to filter this we will be transforming data with the help of query selector tool in which we will filter out only US as a country after that We can do the data visualization to show the performance of the store in the United States with the help of Different Visualization Charts, which are as follows.
 
 <ol>
   <h3><li>Slicers:</li></h3>
